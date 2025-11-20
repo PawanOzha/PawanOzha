@@ -52,9 +52,9 @@ I’m also a **parkour athlete** — solving problems with movement and code bot
 
 ## 📫 Contact
 
-**Email:** [pawan.ojha.dev@gmail.com](mailto:pawan.ojha.dev@gmail.com)
-**GitHub:** github.com/pawanojjha
-**LinkedIn:** (Add link if available)
+**Email:** [pawan.ojha@gmail.com](mailto:pawan.ojha.dev@gmail.com)
+**GitHub:** github.com/PawanOzha
+
 
 ---
 
