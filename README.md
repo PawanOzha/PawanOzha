@@ -64,8 +64,8 @@ I'm a freelance full-stack engineer in Kathmandu with about two years of buildin
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,py,fastapi,go,rust,tauri,docker,sqlite&perline=11&theme=dark">
-  <img alt="Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, Go, Rust, Tauri, Docker, SQLite" src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,py,fastapi,go,rust,tauri,docker,sqlite&perline=11&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cnodejs%2Ctailwind%2Cpy%2Cfastapi%2Cgo%2Crust%2Ctauri%2Celectron%2Cdocker%2Csqlite&perline=7&theme=dark">
+  <img alt="Next.js, React, TypeScript, JavaScript, Node.js, Tailwind CSS, Python, FastAPI, Go, Rust, Tauri, Electron, Docker, SQLite" src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cnodejs%2Ctailwind%2Cpy%2Cfastapi%2Cgo%2Crust%2Ctauri%2Celectron%2Cdocker%2Csqlite&perline=7&theme=light">
 </picture>
 
 <br><br>
